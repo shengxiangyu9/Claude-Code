@@ -26,7 +26,7 @@
 
 4.  **一个海外静态住宅 IP（static residential proxy）**
     -   这是你的专属“身份证”，是整个方案的核心。
-    -   **服务商推荐：** [Webshare](https://www.webshare.io/) 或其他信誉良好的平台。
+    -   **服务商推荐：** [Proxy-Cheap](https://www.proxy-cheap.com/) 或其他信誉良好的平台。
     -   **购买后你会得到：** `IP地址`, `端口`, `用户名`, `密码`。
 
 ---
